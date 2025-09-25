@@ -1,0 +1,19 @@
+{
+  "name": "niranjan oranization workflow"
+  "description":  "niranjan oranize CI"
+  "iconName": "example-icon"
+  "categories":  [
+      "GO"
+  ],
+  "filePatterns": [
+    
+    "package.json$",
+    "^Dockerfile",
+    ".*\\.md$"
+  ]
+}
+    
+    
+      
+    
+  
